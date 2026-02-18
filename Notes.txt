@@ -1,0 +1,150 @@
+a paradigm shift: a fundamental and irreversible change in the way that humans work and engage with the world.
+
+digital transformation :
+	digital transformation as when an organization uses new digital technologies, such as public, private, and hybrid cloud platforms to create or modify business processes, culture, and customer experiences to meet the needs of changing business and market dynamics.
+
+The cloud is a metaphor for the network of data centers which store and compute information that’s available through the internet.
+
+On-premises:
+->hosted on-site
+->located and operated in an organization's data center
+->traditional way of managing IT infrastructure
+->Doesn't require third-party access
+->owners have physical control
+->No pyment for ongoing process
+
+->Requires physical space
+->requires a specialized room
+->require expert personnel
+->difficult to scale9when business expands)
+->Acquire more computing resources than they actually need
+
+
+Private Cloud:
+->A private cloud is a type of cloud computing where the infrastructure is dedicated to a single organization instead of the general public.
+->also known as single-tenant or corporate cloud.
+-> an organization has to perform the same kind of ongoing maintenance and management for a private cloud as it would for traditional on-premises infrastructure.
+->benefits public cloud by:
+	self service,scalability, and elasticity
+
+Public cloud:
+->The public cloud is where on-demand computing services and infrastructure are managed by a third-party provider, such as Google Cloud, and shared with multiple organizations or “tenants” through the public internet.
+->data and applications running in the cloud are hidden from other tenants.
+-> public cloud has on-demand availability of computing and infrastructure resources, organizations don't need to acquire, configure, or manage those resources themselves, and they only pay for what they use.
+->
+ three types of cloud computing service models available in public cloud: The first is infrastructure as a service (IaaS), which offers compute and storage services.
+04:20
+The second is platform as a service (PaaS), which offers a develop-and-deploy environment to build cloud apps.
+04:28
+And the third is software as a service (SaaS), which delivers apps as services, where users get access to software on a subscription basis.
+
+Benefits of cloud computing:
+->its scalable(give access to latest technologies on demand no need to worry about capital expenditure).
+->accelerate deployment time
+->its flexible(can be accessed from anywhere)
+->its agile(can develop new applic and rapidly get them into production)
+->it offers stratergic value(providers stay updated with latest innovatioons and offer them as services to customers).
+->its secure
+->its cost-effective(No matter which cloud computing service model organizations implement, they only pay for the computing resources they use.)
+
+vm cloud era -
+	->No need to buy or operate hardware
+	->only few startups used their own datacenters at the end of this 
+	first vm cloud era
+
+infrastructure cloud era-
+	->organizatiosn moved IT infrastructure to cloud.
+	->saves cost(infrastructure scale up and down more quickly and easily)
+	->faster development
+	->better security
+	->reducing management load
+	->focus on building new capabilities.
+
+	->didn't provide transformative results
+	->didn't change how people worked
+
+->digital transformation is more than migrating and shifting to the cloud 
+  for cost savings.
+
+Transformation Cloud era-
+	->not only focuses on infrastructure but also transforming
+	->To facilitate this degree of constant innovation and progress, today’s 
+	   most ambitious organizations are building transformation clouds.
+	->A transformation cloud is a new approach to digital 
+	   transformation.
+	->It provides an environment for app and infrastructure modernization,
+	   data democratization people connections and trusted transactions.
+	-> organization that benefits from cloud computing to drive 
+	  innovation, generate new revenue streams, and adapt 
+	  quickly to market changes and customer needs.
+
+challenges lead to a digital transformation:
+1.best at understanding and using data
+	data - data across streams,lakes,warehouses and databases - quickly and easily breakdown data silos - generate real-time insights - reduce cost and ineffeciencies.
+2.they want the best technology infrastructure
+3.want to create the best hybrid workplace
+4.its critical for organizations to know that their data,systrms, and users are secure.
+5.prioritize sustainability as critical,broad-level topic
+
+Transformation cloud:
+There are five primary capabilities that form the basis of the transformation cloud.
+	data , open infrastruture,collaboration,trust and sustainable technology
+
+Data:
+ -> a data cloud is a unified solution to manage data across the entire lifecycle.
+ ->It lets organizations identify and process data with great scale, speed, security, and reliability.
+ ->companies like Ford, Spotify, Wayfair, and UPS use a data cloud to encourage data-driven transformation
+
+Open infrastructure:
+ ->organizations choose to modernize their IT system bescuse it gives freedom
+    to  securely innovate and scale from on-premises to edge,to cloud 
+ ->cloud brings google cloud services to different physical locations.
+ ->instead of using single service provider to run applic using hybrid and multi cloud approaches
+ ->facilitates faster innovation and reduces lock-in to a single cloud provider 
+    by giving organizations the and flexibility to build, migrate, and manage 
+    their applications across on-premises and multiple clouds.
+
+->open standard refers to software that follow paticular specifications that are accessable by anyone
+	Ex: http for requesting conntent on web.
+->open source refers to software whose source vode is publicly accessible for anyone to use,edit and share.
+->open source plays critical role in open cloud to deliver customers the portability they expect
+
+collaboration:
+ ->helps transform how people connect,create and collaborate.
+ ->due to covid-19 organizations increased both location and time flexibility.so work from diffrent 
+    places or regions collaborate,connect,create securely from anywhere and any device
+
+trust:
+ ->Organizations see the cloud as more secure than on-premises, and they 
+   want to make it simple so that employees, customers, and contractors can safely access their services.
+ 
+Sustainable:
+ ->Moving to Google Cloud can dramatically decrease a customer's IT-related carbon footprint.
+
+Google cloud adoption framework:
+ ->there are some and benifits and also riska wile moving to cloud
+ ->challeneg is multi-dimensional
+->people,process and technology
+->serves as a map to help organixations adopt the cloud quickly and effectively by creating comprehensive action plan.
+
+the framework structures and alihns:
+1.short-term tactical objectives
+2.mid-term strategic objectives
+3.long-term transformational objectives
+
+ ->cloud maturity assessment helps to establish where an organization is currently regarding the cloud adoption themes recognized by Google Cloud.
+ ->
+It can quickly reveal any areas where an organization might be weaker or underinvested.
+->After cloud maturity has been assessed and actions have been recommended, it's easy to scope and structure a cloud adoption program using the framework.
+
+
+
+
+
+
+
+
+
+
+
+
